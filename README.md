@@ -7,5 +7,6 @@
 
 ## References
 
-* [Tool wear estimation](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
+* Caggiano, Alessandra, and Luigi Nele. "Artificial neural networks for tool wear prediction based on sensor fusion monitoring of CFRP/CFRP stack drilling." International Journal of Automation Technology 12.3 (2018): 275-281.
 * [Nele, Luigi, Giulio Mattera, and Mario Vozza. "Deep Neural Networks for Defects Detection in Gas Metal Arc Welding." Applied Sciences 12.7 (2022): 3615.](file:///home/giulio/Downloads/applsci-12-03615-1.pdf)
+* [AI for reduced order modeling](https://content.mathworks.com/viewer/63814a32c8ce21bfab25787d)
