@@ -1,0 +1,1 @@
+net = importTensorFlowNetwork('./model_waam', "OutputLayerType", 'regression')
