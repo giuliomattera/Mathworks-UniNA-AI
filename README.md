@@ -1,5 +1,10 @@
 # Mathworks UniNA:AI
+
+![aaa](https://user-images.githubusercontent.com/97847032/207107073-10604d55-f4ae-44c3-ac15-79d62fc8f894.png)
+
+## Seminar agenda
  During the event different AI applications were showed using mathworks products. In particular:
+ 
 
 * Solving the inverse kinematics problem using the robotic sytem toolbox, once a trajectory in the task space is defined for an UR10 robot
 * Camera-based hole identification: find holes in a steel-plate and evaluate the centers coordinates and radii using the computer vision toolbox
