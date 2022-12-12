@@ -3,8 +3,6 @@
 ![aaa](https://user-images.githubusercontent.com/97847032/207124513-38b61152-72dc-43c8-b374-e4cd4d1f32f6.png)
 
 ## Seminar agenda
- During the event different AI applications were showed using MATLAB. In particular:
- 
 
 * Solving the inverse kinematics problem using the robotic sytem toolbox, once a trajectory in the task space is defined for an UR10 robot
 * Camera-based hole identification: find holes in a steel-plate and evaluate the centers coordinates and radii using the computer vision toolbox
